@@ -10,16 +10,16 @@ This template, designed for Microsoft Visual Studio, provides the standard file 
 SkyLite is a .NET framework for rapidly building modern, data-driven web applications. It uses a server-centric model where your UI is controlled by server-side C# or VB.NET, and client-server communication is handled by a lightweight, built-in AJAX engine. This allows you to leverage your .NET skills to create responsive, interactive web pages with minimal custom JavaScript, all within the familiar Visual Studio environment.
 
 <br><br>
-SKYLITE framework<br>
-Platform: IIS / .Net framework 4.5 +<br><br>
+- SKYLITE framework<br>
+Platform: IIS / .Net framework 4.5 +<br>
 
-SKYNET framework<br>
+- SKYNET framework<br>
 Platform: ASP.NET Core / .NET 10<br>
 Architecture: Middleware-based <br>
 
-Technical Documents : https://www.theskylite.com/document<br>
-Showcase Demo. Site: https://www.theskylite.com/SkyLiteProject<br>
-Download GitHub: https://github.com/hkim6000/SkyNetDemo-AspNetCore<br><br>
+- Technical Documents : https://www.theskylite.com/document<br>
+- Showcase Demo. Site: https://www.theskylite.com/SkyLiteProject<br>
+- Download GitHub: https://github.com/hkim6000/SkyNetDemo-AspNetCore<br><br>
 
 
 <h3>Project Structure</h3>
