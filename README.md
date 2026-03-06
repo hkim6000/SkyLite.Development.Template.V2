@@ -19,8 +19,9 @@ Architecture: Middleware-based <br>
 
 - Technical Documents : https://www.theskylite.com/document<br>
 - Showcase Demo. Site: https://www.theskylite.com/SkyLiteProject<br>
-- Download GitHub: https://github.com/hkim6000/SkyNetDemo-AspNetCore<br><br>
+- Download GitHub: https://github.com/hkim6000/SkyNetDemo-AspNetCore<br>
 
+support: hkim6000@gmail.com<br><br>
 
 <h3>Project Structure</h3>
 
