@@ -1,4 +1,4 @@
-<h2>Visual Studio Project Template for SkyLite Framework v 2.0.9.0</h2>
+<h2>Visual Studio Project Template for SkyLite Framework v 2.0.9.2</h2>
 
 03/03/2026
 
@@ -19,9 +19,8 @@ Architecture: Middleware-based <br>
 
 - Technical Documents : https://www.theskylite.com/document<br>
 - Showcase Demo. Site: https://www.theskylite.com/SkyLiteProject<br>
-- Download GitHub: https://github.com/hkim6000/SkyNetDemo-AspNetCore<br>
-
-support: hkim6000@gmail.com<br><br>
+- Download GitHub: https://github.com/hkim6000/SkyNetDemo-AspNetCore<br><br>
+ 
 
 <h3>Project Structure</h3>
 
